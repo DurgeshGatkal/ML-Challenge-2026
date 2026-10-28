@@ -1,0 +1,1 @@
+﻿Put the competition files here: train_cadences.npy, test_cadences.npy, train_meta.csv, test_meta.csv (not redistributed).
